@@ -1,3 +1,4 @@
-pytest
-scikit-learn
+mage-ai
 pandas
+scikit-learn
+pytest
